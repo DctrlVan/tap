@@ -1,0 +1,14 @@
+{
+  "name": "kbdline",
+  "version": "1.0.0",
+  "description": "Read a line from keyboard device directly, bypassing tty issues",
+  "main": "kbdline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "evdev": "^0.2.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
