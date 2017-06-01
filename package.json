@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "evdev": "^0.2.3"
+    "evdev": "^0.2.3",
+    "superagent": "^3.5.2"
   },
   "author": "",
   "license": "ISC"
